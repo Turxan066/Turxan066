@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'am  Front End Developer</h1>
-<h3 align="center">From Azerbaijan This is a road we choose we follow this is the road to the future we look forwar  and discover</h3>
+<h3 align="center">From Azerbaijan <img src="images/thumb2-flag-of-azerbaijan-4k-grunge-art-rhombus-grunge-texture-azerbaijan-flag.jpg" alt="Azerbaijan Flag"></h3>
 
 - 🌱 I’m currently learning **Html Css Sass Bootstrap Javascript React Js**
 
