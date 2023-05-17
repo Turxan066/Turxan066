@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'am  Front End Developer</h1>
+<h1 align="center">Hi 👋, I'am c  Junior  Front End Developer</h1>
 <h3 align="center">From Azerbaijan</h3>
 
 - 🌱 I’m currently learning **Html Css Sass Bootstrap Javascript React Js TailwindCss**
