@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Turxan</h1>
-<h3 align="center">Fontend Developer from Azerbaijan</h3>
+<h1 align="center">Hi 👋, I'am  Front End Developer</h1>
+<h3 align="center">From Azerbaijan This is a road we choose we follow this is the road to the future we look forwar  and discover</h3>
 
 - 🌱 I’m currently learning **Html Css Sass Bootstrap Javascript React Js**
 
