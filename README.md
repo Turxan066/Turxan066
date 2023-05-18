@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Cześć Rzeczpospolita Polska 👋, Jestem Front-Endowym</h1>
-<h3 align="center">From Azerbaijan</h3>
+<h3 align="center">z Azerbejdżanu</h3>
 
 - 🌱 I’m currently learning **HTML5 CSS3 SASS SCSS BOOTSTRAP 3/4/5 JAVASCRIPT REACT JS NODE JS TailwindCss**
 
