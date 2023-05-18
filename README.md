@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'am Front End Developer</h1>
 <h3 align="center">From Azerbaijan</h3>
 
-- 🌱 I’m currently learning **All World**
+- 🌱 I’m currently learning **HTML5 CSS3 SASS SCSS BOOTSTRAP 3/4/5 JAVASCRIPT REACT JS NODE JS TailwindCss**
 
 - 📫 How to reach me ** m.turxan@gmail.com**
 
