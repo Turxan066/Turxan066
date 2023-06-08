@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Cześć Rzeczpospolita Polska 👋, Jestem Front-Endowym</h1>
 <h3 align="center">z Azerbejdżanu</h3>
 
+<a href="https://www.youtube.com/channel/UCPZL6wmz8kQ_YoZUWjES3eA"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=EE33F7&background=2EFFA200&vCenter=true&width=435&lines=Turxan Mammadov" alt="Typing SVG" /></a>
+<a href="https://www.youtube.com/channel/UCPZL6wmz8kQ_YoZUWjES3eA"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=EE33F7&background=2EFFA200&vCenter=true&width=435&lines=Turxan Mammadov" alt="Typing SVG" /></a>
+
+📫 **m.turxan@gmail.com**
+
 - 🌱 I’m currently learning **HTML5 CSS3 SASS SCSS BOOTSTRAP 3/4/5 JAVASCRIPT REACT JS NODE JS TailwindCss**
 
 - 📫 How to reach me ** m.turxan@gmail.com**
