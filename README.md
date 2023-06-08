@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center">z Azerbejdżanu</h3>
 
 
-📫 **m.turxan@gmail.com**
-
 - 🌱 I’m currently learning **HTML5 CSS3 SASS SCSS BOOTSTRAP 3/4/5 JAVASCRIPT REACT JS NODE JS TailwindCss**
+
 
 - 📫 How to reach me ** m.turxan@gmail.com**
 
